@@ -1,2 +1,1 @@
-# SlideBaby
-Cute Infinite Runner game with P5
+https://onlyarchana.github.io/Sea-Life/
